@@ -5,7 +5,7 @@ function theBeatlesPlay(music, instruments) {
   console.log(`${music[v]} plays ${instruments[v]}`)
     
   }
-  
+}
   
 
 
