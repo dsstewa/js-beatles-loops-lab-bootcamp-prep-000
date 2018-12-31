@@ -19,7 +19,7 @@ return array
 
 fuction iLoveTheBeatles(g) {
   var s = []
-  do {
+  do { s.push("")
     
   } while ()
   
