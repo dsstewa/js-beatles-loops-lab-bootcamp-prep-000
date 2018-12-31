@@ -2,7 +2,13 @@
 
 function theBeatlesPlay(music, instruments) {
   var i = []
-  for ()
+  for () {
+  return `music
+    
+  }
+  }
+  
+  
 }
 
 
