@@ -17,7 +17,10 @@ function johnLennonFacts(array) {
 return array  
 }
 
-fuction 
+fuction iLoveTheBeatles(g) {
+  var s = []
+  
+}
     
     
     
