@@ -2,7 +2,7 @@
 
 function theBeatlesPlay(music, instruments) {
   var i = []
-  for () {
+  for (v = music.length; v > 0; --v) {
   console.log(${music[i]} plays ${instruments[i]})
     
   }
