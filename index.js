@@ -19,6 +19,9 @@ return array
 
 fuction iLoveTheBeatles(g) {
   var s = []
+  do {
+    
+  } while ()
   
 }
     
