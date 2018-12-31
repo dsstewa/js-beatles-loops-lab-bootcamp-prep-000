@@ -17,7 +17,7 @@ function johnLennonFacts(array) {
 return array  
 }
 
-fuction iLoveTheBeatles(g) {
+function iLoveTheBeatles(g) {
   var s = []
   do { s[0]=("I love the Beatles!")
     g++
