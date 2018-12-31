@@ -19,7 +19,7 @@ return array
 
 fuction iLoveTheBeatles(g) {
   var s = []
-  do { s.push("I love the Beatles!")
+  do { s[0].push("I love the Beatles!")
     
   } while (g < 15)
   
