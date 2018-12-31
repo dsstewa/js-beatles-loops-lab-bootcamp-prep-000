@@ -19,10 +19,12 @@ return array
 
 function iLoveTheBeatles(g) {
   var s = []
-  do { s[0]=("I love the Beatles!")
-    g++
-  } while (g < 15)
-  return s[0]
+  var c = 15 - g
+  var t = 0
+  do { s.push=("I love the Beatles!")
+    t++
+  } while (t < c)
+  return s
 }
     
     
