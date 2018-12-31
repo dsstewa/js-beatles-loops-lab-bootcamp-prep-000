@@ -21,7 +21,7 @@ function iLoveTheBeatles(g) {
   var s = []
   var c = 15 - g
   var t = 0
-  do { s.push=("I love the Beatles!")
+  do { s.push("I love the Beatles!")
     t++
   } while (t < c)
   return s
