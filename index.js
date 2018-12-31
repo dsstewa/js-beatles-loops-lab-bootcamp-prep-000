@@ -13,8 +13,7 @@ function johnLennonFacts(array) {
     array[d] = array[d] + "!!!"
     d++
   }
-return console.log(array)
-  
+return array  
 }
 
     
