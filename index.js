@@ -20,9 +20,9 @@ return array
 fuction iLoveTheBeatles(g) {
   var s = []
   do { s[0]=("I love the Beatles!")
-    
+    g++
   } while (g < 15)
-  
+  return s[0]
 }
     
     
