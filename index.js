@@ -24,7 +24,7 @@ function iLoveTheBeatles(g) {
   do { s.push=("I love the Beatles!")
     t++
   } while (t < c)
-  return s
+  return s()
 }
     
     
