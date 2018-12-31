@@ -19,9 +19,9 @@ return array
 
 fuction iLoveTheBeatles(g) {
   var s = []
-  do { s.push("")
+  do { s.push("I love the Beatles!")
     
-  } while ()
+  } while (g < 15)
   
 }
     
